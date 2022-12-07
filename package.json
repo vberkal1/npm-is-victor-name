@@ -1,0 +1,22 @@
+{
+  "name": "is-victor-name",
+  "version": "1.0.0",
+  "description": "Is the string victor name?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vberkal1/first-npm-package.git"
+  },
+  "keywords": [
+    "WDS"
+  ],
+  "author": "vberkal@inbox.ru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vberkal1/first-npm-package/issues"
+  },
+  "homepage": "https://github.com/vberkal1/first-npm-package#readme"
+}
