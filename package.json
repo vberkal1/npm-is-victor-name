@@ -1,6 +1,6 @@
 {
   "name": "is-victor-name",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Is the string victor name?",
   "main": "index.js",
   "scripts": {
