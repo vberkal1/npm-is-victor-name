@@ -1,5 +1,5 @@
 function isVictorName(string) {
-    return string === "Victor";
+    return string.toLowerCase() === "victor";
 }
 
 module.exports = isVictorName;
