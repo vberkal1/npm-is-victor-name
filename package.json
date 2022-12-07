@@ -1,10 +1,14 @@
 {
   "name": "is-victor-name",
-  "version": "2.0.2",
+  "version": "2.1.2",
   "description": "Is the string victor name?",
-  "main": "index.js",
+  "types": "dist/index.d.ts",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc --project tsconfig.json --noEmit false"
   },
   "repository": {
     "type": "git",

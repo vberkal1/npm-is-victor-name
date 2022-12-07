@@ -1,6 +1,6 @@
 # ✨how to use?✨
 
-```js
+```ts
 import isVictorName from "is-victor-name";
 
 console.log(isVictorName('Victor')); // true
