@@ -1,2 +1,2 @@
-declare function isVictorName(str: string): boolean;
-export default isVictorName;
+declare const _default: (str: string) => boolean;
+export default _default;
