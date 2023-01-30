@@ -1,5 +1,1 @@
-function isVictorName(str: string): boolean {
-    return str.toLowerCase() === "victor";
-}
-
-export default isVictorName;
+export default (str: string): boolean => str.toLowerCase() === "victor";
